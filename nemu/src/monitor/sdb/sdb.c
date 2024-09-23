@@ -111,7 +111,7 @@ static struct {
   /* TODO: Add more commands */ 
 
   { "si", "Pause after execute N instructions, the default value of N is 1", cmd_si},
-  { "info", "Display information about registers and watchpoints", cmd_info}
+  { "info cmd", "Display information about registers and watchpoints", cmd_info}
 
 };
 
